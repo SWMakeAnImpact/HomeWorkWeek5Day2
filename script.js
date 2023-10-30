@@ -50,7 +50,7 @@ menuLinks.forEach(function (link) {
   });
 
 // Task 4.0
-var subMenuEl = document.getElementById('sub-menu');
+let subMenuEl = document.getElementById('sub-menu');
 
 // Task 4.1
 subMenuEl.style.height = '100%';
